@@ -1,6 +1,6 @@
-# scoll
+# better-scroll-demo
 
-> Nuxt.js project
+> scollDemo
 
 ## Build Setup
 
