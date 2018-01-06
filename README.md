@@ -1,7 +1,5 @@
 # better-scroll-demo
-
 > scollDemo 是基于vue服务端渲染nuxt.js 结合better-scroll这款强大的封装下拉刷新和上拉加载功能的插件
-
 # 
 > better-scroll插件 [官网文档地址地址](https://ustbhuangyi.github.io/better-scroll/doc/)
 #
