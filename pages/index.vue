@@ -9,16 +9,6 @@
       </div>
       <button @click="btn">点击</button>
       <br/>
-      <button @click="next">next</button>
-      <br/>
-      <button @click="goToPage">goToPage</button>
-      <br/>
-       <button @click="getCurrentPage">getCurrentPage</button>
-        <br/>
-       <button @click="maxScrollX">maxScrollX</button>
-        <br/>
-
-       <button @click="finishPullDown">finishPullDown</button>
   </div>
 </template>
 
